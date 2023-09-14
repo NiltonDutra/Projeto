@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: 
+Feito com ♥ by Nilton Dutra :wave: 
