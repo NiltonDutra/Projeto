@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/NiltonDutra/projeto)
+- [Acesse o projeto finalizado, online](https://NiltonDutra.github.io/projeto)
 
 ## :memo: Licença
 
